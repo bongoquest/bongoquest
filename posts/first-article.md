@@ -1,4 +1,5 @@
 ---
+image: "https://images.unsplash.com/photo-1677442136019-21780ecad995"
 title: "Welcome to BongoQuest"
 category: "Technology Tutorials"
 description: "Welcome to BongoQuest, your guide to technology, AI tools, and digital skills."
