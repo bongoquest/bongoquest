@@ -25,10 +25,10 @@ content:
         type: select
         options:
           values:
-            - Love & Relationships
-            - Travel & Adventure
-            - Life & Philosophy
-            - Photography
+            - AI Tools & Guides
+            - Technology Tutorials
+            - AI for Students & Productivity
+            - Travel& Adventure 
             - Society & Opinions
 
       - name: image
